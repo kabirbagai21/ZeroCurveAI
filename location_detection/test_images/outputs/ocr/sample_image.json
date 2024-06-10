@@ -1,0 +1,969 @@
+{
+    "img_shape": [
+        2560,
+        4096,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "  BAR BEAT TEMPO Cmaj",
+            "column_min": 0,
+            "row_min": 0,
+            "column_max": 4096,
+            "row_max": 144,
+            "width": 4096,
+            "height": 144
+        },
+        {
+            "id": 1,
+            "content": "  Classic Electric Piano",
+            "column_min": 1582,
+            "row_min": 288,
+            "column_max": 2610,
+            "row_max": 388,
+            "width": 1028,
+            "height": 100
+        },
+        {
+            "id": 2,
+            "content": "Library",
+            "column_min": 92,
+            "row_min": 165,
+            "column_max": 181,
+            "row_max": 191,
+            "width": 89,
+            "height": 26
+        },
+        {
+            "id": 3,
+            "content": "All Sounds",
+            "column_min": 208,
+            "row_min": 166,
+            "column_max": 335,
+            "row_max": 186,
+            "width": 127,
+            "height": 20
+        },
+        {
+            "id": 4,
+            "content": "Quick Help",
+            "column_min": 519,
+            "row_min": 168,
+            "column_max": 649,
+            "row_max": 193,
+            "width": 130,
+            "height": 25
+        },
+        {
+            "id": 5,
+            "content": "a",
+            "column_min": 959,
+            "row_min": 165,
+            "column_max": 979,
+            "row_max": 189,
+            "width": 20,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "Edit",
+            "column_min": 1042,
+            "row_min": 166,
+            "column_max": 1086,
+            "row_max": 186,
+            "width": 44,
+            "height": 20
+        },
+        {
+            "id": 7,
+            "content": "Functions",
+            "column_min": 1162,
+            "row_min": 166,
+            "column_max": 1278,
+            "row_max": 187,
+            "width": 116,
+            "height": 21
+        },
+        {
+            "id": 8,
+            "content": "View",
+            "column_min": 1352,
+            "row_min": 166,
+            "column_max": 1410,
+            "row_max": 187,
+            "width": 58,
+            "height": 21
+        },
+        {
+            "id": 9,
+            "content": "ok",
+            "column_min": 1764,
+            "row_min": 154,
+            "column_max": 1834,
+            "row_max": 202,
+            "width": 70,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "Snap:",
+            "column_min": 2845,
+            "row_min": 165,
+            "column_max": 2911,
+            "row_max": 189,
+            "width": 66,
+            "height": 24
+        },
+        {
+            "id": 11,
+            "content": "Smart",
+            "column_min": 2943,
+            "row_min": 164,
+            "column_max": 3014,
+            "row_max": 185,
+            "width": 71,
+            "height": 21
+        },
+        {
+            "id": 12,
+            "content": "Drag:",
+            "column_min": 3264,
+            "row_min": 165,
+            "column_max": 3326,
+            "row_max": 189,
+            "width": 62,
+            "height": 24
+        },
+        {
+            "id": 13,
+            "content": "X-Fade",
+            "column_min": 3357,
+            "row_min": 164,
+            "column_max": 3442,
+            "row_max": 185,
+            "width": 85,
+            "height": 21
+        },
+        {
+            "id": 14,
+            "content": "To",
+            "column_min": 3660,
+            "row_min": 163,
+            "column_max": 3744,
+            "row_max": 189,
+            "width": 84,
+            "height": 26
+        },
+        {
+            "id": 15,
+            "content": "17",
+            "column_min": 2035,
+            "row_min": 221,
+            "column_max": 2059,
+            "row_max": 240,
+            "width": 24,
+            "height": 19
+        },
+        {
+            "id": 16,
+            "content": "25",
+            "column_min": 2258,
+            "row_min": 221,
+            "column_max": 2286,
+            "row_max": 240,
+            "width": 28,
+            "height": 19
+        },
+        {
+            "id": 17,
+            "content": "33",
+            "column_min": 2477,
+            "row_min": 221,
+            "column_max": 2507,
+            "row_max": 240,
+            "width": 30,
+            "height": 19
+        },
+        {
+            "id": 18,
+            "content": "41",
+            "column_min": 2699,
+            "row_min": 221,
+            "column_max": 2723,
+            "row_max": 240,
+            "width": 24,
+            "height": 19
+        },
+        {
+            "id": 19,
+            "content": "49",
+            "column_min": 2919,
+            "row_min": 221,
+            "column_max": 2950,
+            "row_max": 241,
+            "width": 31,
+            "height": 20
+        },
+        {
+            "id": 20,
+            "content": "57",
+            "column_min": 3142,
+            "row_min": 221,
+            "column_max": 3169,
+            "row_max": 240,
+            "width": 27,
+            "height": 19
+        },
+        {
+            "id": 21,
+            "content": "65",
+            "column_min": 3363,
+            "row_min": 221,
+            "column_max": 3393,
+            "row_max": 240,
+            "width": 30,
+            "height": 19
+        },
+        {
+            "id": 22,
+            "content": "73",
+            "column_min": 3583,
+            "row_min": 221,
+            "column_max": 3611,
+            "row_max": 240,
+            "width": 28,
+            "height": 19
+        },
+        {
+            "id": 23,
+            "content": "81",
+            "column_min": 3805,
+            "row_min": 221,
+            "column_max": 3829,
+            "row_max": 240,
+            "width": 24,
+            "height": 19
+        },
+        {
+            "id": 24,
+            "content": "89",
+            "column_min": 4025,
+            "row_min": 221,
+            "column_max": 4055,
+            "row_max": 240,
+            "width": 30,
+            "height": 19
+        },
+        {
+            "id": 25,
+            "content": "The",
+            "column_min": 481,
+            "row_min": 269,
+            "column_max": 522,
+            "row_max": 288,
+            "width": 41,
+            "height": 19
+        },
+        {
+            "id": 26,
+            "content": "primary",
+            "column_min": 531,
+            "row_min": 269,
+            "column_max": 615,
+            "row_max": 293,
+            "width": 84,
+            "height": 24
+        },
+        {
+            "id": 27,
+            "content": "area",
+            "column_min": 623,
+            "row_min": 274,
+            "column_max": 670,
+            "row_max": 288,
+            "width": 47,
+            "height": 14
+        },
+        {
+            "id": 28,
+            "content": "for",
+            "column_min": 678,
+            "row_min": 269,
+            "column_max": 710,
+            "row_max": 288,
+            "width": 32,
+            "height": 19
+        },
+        {
+            "id": 29,
+            "content": "recording,",
+            "column_min": 718,
+            "row_min": 269,
+            "column_max": 830,
+            "row_max": 293,
+            "width": 112,
+            "height": 24
+        },
+        {
+            "id": 30,
+            "content": "editing,",
+            "column_min": 481,
+            "row_min": 301,
+            "column_max": 563,
+            "row_max": 325,
+            "width": 82,
+            "height": 24
+        },
+        {
+            "id": 31,
+            "content": "and",
+            "column_min": 572,
+            "row_min": 301,
+            "column_max": 612,
+            "row_max": 320,
+            "width": 40,
+            "height": 19
+        },
+        {
+            "id": 32,
+            "content": "arranging audio, MIDI,",
+            "column_min": 621,
+            "row_min": 301,
+            "column_max": 867,
+            "row_max": 325,
+            "width": 246,
+            "height": 24
+        },
+        {
+            "id": 33,
+            "content": "Mellow Vibe Piano",
+            "column_min": 1078,
+            "row_min": 304,
+            "column_max": 1296,
+            "row_max": 325,
+            "width": 218,
+            "height": 21
+        },
+        {
+            "id": 34,
+            "content": "and Drummer",
+            "column_min": 481,
+            "row_min": 333,
+            "column_max": 634,
+            "row_max": 352,
+            "width": 153,
+            "height": 19
+        },
+        {
+            "id": 35,
+            "content": "regions,",
+            "column_min": 642,
+            "row_min": 333,
+            "column_max": 723,
+            "row_max": 357,
+            "width": 81,
+            "height": 24
+        },
+        {
+            "id": 36,
+            "content": "divided into",
+            "column_min": 739,
+            "row_min": 333,
+            "column_max": 869,
+            "row_max": 352,
+            "width": 130,
+            "height": 19
+        },
+        {
+            "id": 37,
+            "content": "Mellow Vibe Piano",
+            "column_min": 115,
+            "row_min": 378,
+            "column_max": 338,
+            "row_max": 398,
+            "width": 223,
+            "height": 20
+        },
+        {
+            "id": 38,
+            "content": "different",
+            "column_min": 481,
+            "row_min": 365,
+            "column_max": 576,
+            "row_max": 384,
+            "width": 95,
+            "height": 19
+        },
+        {
+            "id": 39,
+            "content": "track types. info. more for",
+            "column_min": 583,
+            "row_min": 365,
+            "column_max": 752,
+            "row_max": 416,
+            "width": 169,
+            "height": 51
+        },
+        {
+            "id": 40,
+            "content": "Press",
+            "column_min": 481,
+            "row_min": 398,
+            "column_max": 547,
+            "row_max": 416,
+            "width": 66,
+            "height": 18
+        },
+        {
+            "id": 41,
+            "content": "3/",
+            "column_min": 555,
+            "row_min": 397,
+            "column_max": 584,
+            "row_max": 421,
+            "width": 29,
+            "height": 24
+        },
+        {
+            "id": 42,
+            "content": "Amplified",
+            "column_min": 27,
+            "row_min": 512,
+            "column_max": 138,
+            "row_max": 537,
+            "width": 111,
+            "height": 25
+        },
+        {
+            "id": 43,
+            "content": "Piano",
+            "column_min": 149,
+            "row_min": 512,
+            "column_max": 213,
+            "row_max": 532,
+            "width": 64,
+            "height": 20
+        },
+        {
+            "id": 44,
+            "content": "Classic Electric Piano",
+            "column_min": 618,
+            "row_min": 522,
+            "column_max": 875,
+            "row_max": 543,
+            "width": 257,
+            "height": 21
+        },
+        {
+            "id": 45,
+            "content": "Backwards Bowed Piano",
+            "column_min": 28,
+            "row_min": 558,
+            "column_max": 320,
+            "row_max": 578,
+            "width": 292,
+            "height": 20
+        },
+        {
+            "id": 46,
+            "content": "Mute:",
+            "column_min": 621,
+            "row_min": 576,
+            "column_max": 677,
+            "row_max": 605,
+            "width": 56,
+            "height": 29
+        },
+        {
+            "id": 47,
+            "content": "Before Talkies",
+            "column_min": 28,
+            "row_min": 604,
+            "column_max": 194,
+            "row_max": 624,
+            "width": 166,
+            "height": 20
+        },
+        {
+            "id": 48,
+            "content": "Below The Surface Piano",
+            "column_min": 28,
+            "row_min": 650,
+            "column_max": 326,
+            "row_max": 670,
+            "width": 298,
+            "height": 20
+        },
+        {
+            "id": 49,
+            "content": "Quantize",
+            "column_min": 554,
+            "row_min": 659,
+            "column_max": 646,
+            "row_max": 678,
+            "width": 92,
+            "height": 19
+        },
+        {
+            "id": 50,
+            "content": "Off",
+            "column_min": 690,
+            "row_min": 659,
+            "column_max": 722,
+            "row_max": 677,
+            "width": 32,
+            "height": 18
+        },
+        {
+            "id": 51,
+            "content": "Curious Hammers",
+            "column_min": 27,
+            "row_min": 696,
+            "column_max": 241,
+            "row_max": 716,
+            "width": 214,
+            "height": 20
+        },
+        {
+            "id": 52,
+            "content": "Q-Swing:",
+            "column_min": 582,
+            "row_min": 699,
+            "column_max": 677,
+            "row_max": 720,
+            "width": 95,
+            "height": 21
+        },
+        {
+            "id": 53,
+            "content": "Daylight",
+            "column_min": 28,
+            "row_min": 742,
+            "column_max": 124,
+            "row_max": 767,
+            "width": 96,
+            "height": 25
+        },
+        {
+            "id": 54,
+            "content": "Piano",
+            "column_min": 134,
+            "row_min": 742,
+            "column_max": 198,
+            "row_max": 762,
+            "width": 64,
+            "height": 20
+        },
+        {
+            "id": 55,
+            "content": "Transpose:",
+            "column_min": 564,
+            "row_min": 735,
+            "column_max": 677,
+            "row_max": 770,
+            "width": 113,
+            "height": 35
+        },
+        {
+            "id": 56,
+            "content": "Ghost Piano",
+            "column_min": 27,
+            "row_min": 788,
+            "column_max": 171,
+            "row_max": 808,
+            "width": 144,
+            "height": 20
+        },
+        {
+            "id": 57,
+            "content": "Hammered Piano",
+            "column_min": 28,
+            "row_min": 834,
+            "column_max": 232,
+            "row_max": 854,
+            "width": 204,
+            "height": 20
+        },
+        {
+            "id": 58,
+            "content": "Velocity:",
+            "column_min": 589,
+            "row_min": 815,
+            "column_max": 677,
+            "row_max": 864,
+            "width": 88,
+            "height": 49
+        },
+        {
+            "id": 59,
+            "content": "More",
+            "column_min": 504,
+            "row_min": 860,
+            "column_max": 554,
+            "row_max": 876,
+            "width": 50,
+            "height": 16
+        },
+        {
+            "id": 60,
+            "content": "Learner's Piano",
+            "column_min": 28,
+            "row_min": 880,
+            "column_max": 212,
+            "row_max": 900,
+            "width": 184,
+            "height": 20
+        },
+        {
+            "id": 61,
+            "content": "Mellow Vibe Piano",
+            "column_min": 28,
+            "row_min": 926,
+            "column_max": 246,
+            "row_max": 946,
+            "width": 218,
+            "height": 20
+        },
+        {
+            "id": 62,
+            "content": "Track: Mellow Vibe Piano",
+            "column_min": 519,
+            "row_min": 920,
+            "column_max": 827,
+            "row_max": 940,
+            "width": 308,
+            "height": 20
+        },
+        {
+            "id": 63,
+            "content": "Nylon Synth",
+            "column_min": 28,
+            "row_min": 972,
+            "column_max": 171,
+            "row_max": 997,
+            "width": 143,
+            "height": 25
+        },
+        {
+            "id": 64,
+            "content": "Piano",
+            "column_min": 181,
+            "row_min": 972,
+            "column_max": 246,
+            "row_max": 992,
+            "width": 65,
+            "height": 20
+        },
+        {
+            "id": 65,
+            "content": "Oak Piano Dream Synth",
+            "column_min": 27,
+            "row_min": 1018,
+            "column_max": 310,
+            "row_max": 1043,
+            "width": 283,
+            "height": 25
+        },
+        {
+            "id": 66,
+            "content": "Old-Time Recording Keys",
+            "column_min": 27,
+            "row_min": 1064,
+            "column_max": 332,
+            "row_max": 1089,
+            "width": 305,
+            "height": 25
+        },
+        {
+            "id": 67,
+            "content": "Parallel Earth Piano",
+            "column_min": 28,
+            "row_min": 1110,
+            "column_max": 258,
+            "row_max": 1130,
+            "width": 230,
+            "height": 20
+        },
+        {
+            "id": 68,
+            "content": "Piano Motion",
+            "column_min": 28,
+            "row_min": 1156,
+            "column_max": 182,
+            "row_max": 1176,
+            "width": 154,
+            "height": 20
+        },
+        {
+            "id": 69,
+            "content": "Psychic Energy",
+            "column_min": 28,
+            "row_min": 1202,
+            "column_max": 210,
+            "row_max": 1227,
+            "width": 182,
+            "height": 25
+        },
+        {
+            "id": 70,
+            "content": "Piano",
+            "column_min": 219,
+            "row_min": 1202,
+            "column_max": 283,
+            "row_max": 1222,
+            "width": 64,
+            "height": 20
+        },
+        {
+            "id": 71,
+            "content": "Record Collection Grand",
+            "column_min": 28,
+            "row_min": 1248,
+            "column_max": 320,
+            "row_max": 1268,
+            "width": 292,
+            "height": 20
+        },
+        {
+            "id": 72,
+            "content": "Rise Above Piano",
+            "column_min": 28,
+            "row_min": 1294,
+            "column_max": 233,
+            "row_max": 1314,
+            "width": 205,
+            "height": 20
+        },
+        {
+            "id": 73,
+            "content": "Small",
+            "column_min": 27,
+            "row_min": 1340,
+            "column_max": 90,
+            "row_max": 1360,
+            "width": 63,
+            "height": 20
+        },
+        {
+            "id": 74,
+            "content": "Amped",
+            "column_min": 100,
+            "row_min": 1340,
+            "column_max": 183,
+            "row_max": 1365,
+            "width": 83,
+            "height": 25
+        },
+        {
+            "id": 75,
+            "content": "Acoustic Piano",
+            "column_min": 193,
+            "row_min": 1340,
+            "column_max": 370,
+            "row_max": 1360,
+            "width": 177,
+            "height": 20
+        },
+        {
+            "id": 76,
+            "content": "Subtle",
+            "column_min": 27,
+            "row_min": 1386,
+            "column_max": 102,
+            "row_max": 1406,
+            "width": 75,
+            "height": 20
+        },
+        {
+            "id": 77,
+            "content": "Dynamics",
+            "column_min": 112,
+            "row_min": 1386,
+            "column_max": 228,
+            "row_max": 1411,
+            "width": 116,
+            "height": 25
+        },
+        {
+            "id": 78,
+            "content": "Piano",
+            "column_min": 238,
+            "row_min": 1386,
+            "column_max": 302,
+            "row_max": 1406,
+            "width": 64,
+            "height": 20
+        },
+        {
+            "id": 79,
+            "content": "[Mellow Vib...",
+            "column_min": 506,
+            "row_min": 1385,
+            "column_max": 630,
+            "row_max": 1403,
+            "width": 124,
+            "height": 18
+        },
+        {
+            "id": 80,
+            "content": "Transistor Radio Piano",
+            "column_min": 27,
+            "row_min": 1432,
+            "column_max": 295,
+            "row_max": 1452,
+            "width": 268,
+            "height": 20
+        },
+        {
+            "id": 81,
+            "content": "Worn",
+            "column_min": 27,
+            "row_min": 1479,
+            "column_max": 88,
+            "row_max": 1498,
+            "width": 61,
+            "height": 19
+        },
+        {
+            "id": 82,
+            "content": "Tape",
+            "column_min": 98,
+            "row_min": 1479,
+            "column_max": 154,
+            "row_max": 1503,
+            "width": 56,
+            "height": 24
+        },
+        {
+            "id": 83,
+            "content": "Piano",
+            "column_min": 164,
+            "row_min": 1478,
+            "column_max": 228,
+            "row_max": 1498,
+            "width": 64,
+            "height": 20
+        },
+        {
+            "id": 84,
+            "content": "fv",
+            "column_min": 512,
+            "row_min": 1459,
+            "column_max": 630,
+            "row_max": 1507,
+            "width": 118,
+            "height": 48
+        },
+        {
+            "id": 85,
+            "content": "Smart   Tempo Edit \u00bb Functions View v D#6 20411 Snap: Smart Classic Electric Piano 5 on Track Mellow Vibe Piano Classic Electric Piano Time Quantize (classic) Note Strength Swing Scale Quantize Velocity",
+            "column_min": 912,
+            "row_min": 1634,
+            "column_max": 4096,
+            "row_max": 2560,
+            "width": 3184,
+            "height": 926
+        },
+        {
+            "id": 86,
+            "content": "Stereo Out",
+            "column_min": 513,
+            "row_min": 1836,
+            "column_max": 624,
+            "row_max": 1853,
+            "width": 111,
+            "height": 17
+        },
+        {
+            "id": 87,
+            "content": "0.0",
+            "column_min": 517,
+            "row_min": 2064,
+            "column_max": 547,
+            "row_max": 2081,
+            "width": 30,
+            "height": 17
+        },
+        {
+            "id": 88,
+            "content": "0.0",
+            "column_min": 747,
+            "row_min": 2064,
+            "column_max": 777,
+            "row_max": 2081,
+            "width": 30,
+            "height": 17
+        },
+        {
+            "id": 89,
+            "content": "Piano",
+            "column_min": 17,
+            "row_min": 2451,
+            "column_max": 81,
+            "row_max": 2471,
+            "width": 64,
+            "height": 20
+        },
+        {
+            "id": 90,
+            "content": "Processed",
+            "column_min": 123,
+            "row_min": 2451,
+            "column_max": 247,
+            "row_max": 2471,
+            "width": 124,
+            "height": 20
+        },
+        {
+            "id": 91,
+            "content": "@v",
+            "column_min": 34,
+            "row_min": 2508,
+            "column_max": 87,
+            "row_max": 2534,
+            "width": 53,
+            "height": 26
+        },
+        {
+            "id": 92,
+            "content": "Revert",
+            "column_min": 146,
+            "row_min": 2508,
+            "column_max": 222,
+            "row_max": 2550,
+            "width": 76,
+            "height": 42
+        },
+        {
+            "id": 93,
+            "content": "Save...",
+            "column_min": 323,
+            "row_min": 2507,
+            "column_max": 400,
+            "row_max": 2550,
+            "width": 77,
+            "height": 43
+        },
+        {
+            "id": 94,
+            "content": "Mellow Vibe Piano",
+            "column_min": 477,
+            "row_min": 2523,
+            "column_max": 665,
+            "row_max": 2540,
+            "width": 188,
+            "height": 17
+        },
+        {
+            "id": 95,
+            "content": "Stereo Out",
+            "column_min": 745,
+            "row_min": 2523,
+            "column_max": 857,
+            "row_max": 2540,
+            "width": 112,
+            "height": 17
+        }
+    ]
+}
